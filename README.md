@@ -6,6 +6,7 @@ Java GUI app for creating OBB files. Based on the Android jobb tool.
 -------------------------------------------------------------------------------
 Portions of this code:             
 -------------------------------------------------------------------------------
+
 Copyright (c) 2000 The Legion Of The Bouncy Castle
 (http://www.bouncycastle.org)
 
@@ -18,11 +19,15 @@ is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
 -------------------------------------------------------------------------------
+
 Twofish is uncopyrighted and license-free, and was created and analyzed by:
 Bruce Schneier - John Kelsey - Doug Whiting
 David Wagner - Chris Hall - Niels Ferguson
+
 -------------------------------------------------------------------------------
+
 Cryptix General License
 
 Copyright (c) 1995-2005 The Cryptix Foundation Limited.
@@ -38,7 +43,9 @@ met:
     notice, this list of conditions and the following disclaimer in
     the documentation and/or other materials provided with the
     distribution.
+
 -------------------------------------------------------------------------------
+
 Copyright (C) 2008 The Android Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -52,4 +59,5 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
 -------------------------------------------------------------------------------
